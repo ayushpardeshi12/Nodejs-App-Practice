@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-app-practice",
+  "version": "1.0.0",
+  "description": "Practice Dinosaur Generator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
